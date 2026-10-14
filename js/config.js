@@ -240,7 +240,7 @@ window.SITE = {
   rodape: {
     frase: "Cuidado especializado em saúde masculina, com ética, ciência e atendimento humanizado.",
     creditos: "Desenvolvido por agoncalves",       // deixe "" para ocultar
-    creditosLink: "https://www.instagram.com/p/arthurgoncalvees",
+    creditosLink: "https://www.instagram.com/arthurgoncalvees",
   },
 };
 
