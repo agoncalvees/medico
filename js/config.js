@@ -239,8 +239,8 @@ window.SITE = {
   /* ---------- Rodapé ---------- */
   rodape: {
     frase: "Cuidado especializado em saúde masculina, com ética, ciência e atendimento humanizado.",
-    creditos: "Desenvolvido por Legislink",       // deixe "" para ocultar
-    creditosLink: "",
+    creditos: "Desenvolvido por agoncalves",       // deixe "" para ocultar
+    creditosLink: "https://www.instagram.com/p/arthurgoncalvees",
   },
 };
 
